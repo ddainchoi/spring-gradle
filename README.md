@@ -1,2 +1,2 @@
 # spring-gradle
-spring gradle project
+spring gradle project.
